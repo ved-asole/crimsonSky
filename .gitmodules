@@ -1,3 +1,6 @@
 [submodule "flight-service"]
 	path = flight-service
 	url = git@github.com:ved-asole/flight-service.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:ved-asole/config-server.git
