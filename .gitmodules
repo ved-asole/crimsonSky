@@ -4,3 +4,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = git@github.com:ved-asole/config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = git@github.com:ved-asole/eureka-server.git
