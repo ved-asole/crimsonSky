@@ -1,7 +1,3 @@
-[submodule "flight-service"]
-	path = flight-service
-	url = git@github.com:ved-asole/flight-service.git
-	branch = master
 [submodule "config-server"]
 	path = config-server
 	url = git@github.com:ved-asole/config-server.git
@@ -9,4 +5,12 @@
 [submodule "eureka-server"]
 	path = eureka-server
 	url = git@github.com:ved-asole/eureka-server.git
+	branch = master
+[submodule "flight-service"]
+	path = flight-service
+	url = git@github.com:ved-asole/flight-service.git
+	branch = master
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:ved-asole/api-gateway.git
 	branch = master
