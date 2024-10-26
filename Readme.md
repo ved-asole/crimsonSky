@@ -20,7 +20,7 @@ CrimsonSky is a flight booking system built using Spring Boot Microservices and 
 
 # Screenshots: 📷
 
-Will be added soon😊
+![CrimsonSky Architecture Diagram](./high-level-diagram.png)
 
 # Technologies: ☕️  ⚛️
 
