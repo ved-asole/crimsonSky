@@ -7,7 +7,7 @@ Access my site at **[localhost:8765](http://localhost:8765)**
 
 - [About The App](#about-the-app-)
 - [Screenshots](#screenshots-)
-- [Technologies](#technologies--)
+- [Technologies](#technologies-%EF%B8%8F--%EF%B8%8F)
 - [Setup](#setup-)
   - [Java + Spring Boot](#java--spring-boot)
     - [Available Scripts](#available-scripts--)
