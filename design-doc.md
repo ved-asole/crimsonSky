@@ -30,6 +30,7 @@ This document covers the high-level architecture, component designs, messaging p
     - **CI/CD Pipeline**: Jenkins or GitHub Actions for automating build and deployment.
     - **Security**: OAuth2, JWT, Spring Security for secure API access.
 
+
 - **Architecture Diagram**:
 
   ![CrimsonSky Architecture Diagram](./high-level-diagram.png)
@@ -120,12 +121,16 @@ This document covers the high-level architecture, component designs, messaging p
     - **OAuth2** and **JWT** along with **Spring Security** for secure API access.
     - Rate limiting at the **Spring Cloud Gateway** layer to protect against abuse.
 ---
+
 ## **Appendices**
+
 - **Glossary**: 
     - **OAuth2**: Open Authorization Framework.
     - **JWT**: JSON Web Token.
+
 - **References**: 
     - Spring Cloud documentation.
     - AWS EC2 best practices.
+  
 - **Additional Diagrams**: 
     - Will add additional diagrams to illustrate detailed service interactions.
